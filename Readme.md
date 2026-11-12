@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-> This is in active development, it currently works in singleplayer but not multiplayer (the valuable state doesnt sync).
-
 # Read if cute!!
 Hi guys! i have a new mod.
 

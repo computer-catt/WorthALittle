@@ -1,5 +1,4 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
         <AssemblyName>WorthALittle</AssemblyName>
@@ -35,6 +34,9 @@
         </Reference>
         <Reference Include="PhotonUnityNetworking" Private="false" Publicize="true">
             <HintPath>libs/PhotonUnityNetworking.dll</HintPath>
+        </Reference>
+        <Reference Include="PhotonRealtime" Private="false" Publicize="true">
+            <HintPath>libs/PhotonRealtime.dll</HintPath>
         </Reference>
     </ItemGroup>
 
